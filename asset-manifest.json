@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pages-of-paige/BookMark/static/css/main.7d56d944.css",
-    "main.js": "/pages-of-paige/BookMark/static/js/main.9d83912d.js",
-    "static/js/787.6ee5bbe4.chunk.js": "/pages-of-paige/BookMark/static/js/787.6ee5bbe4.chunk.js",
-    "index.html": "/pages-of-paige/BookMark/index.html",
-    "main.7d56d944.css.map": "/pages-of-paige/BookMark/static/css/main.7d56d944.css.map",
-    "main.9d83912d.js.map": "/pages-of-paige/BookMark/static/js/main.9d83912d.js.map",
-    "787.6ee5bbe4.chunk.js.map": "/pages-of-paige/BookMark/static/js/787.6ee5bbe4.chunk.js.map"
+    "main.css": "/BookMark/static/css/main.7d56d944.css",
+    "main.js": "/BookMark/static/js/main.9f751972.js",
+    "static/js/787.6ee5bbe4.chunk.js": "/BookMark/static/js/787.6ee5bbe4.chunk.js",
+    "index.html": "/BookMark/index.html",
+    "main.7d56d944.css.map": "/BookMark/static/css/main.7d56d944.css.map",
+    "main.9f751972.js.map": "/BookMark/static/js/main.9f751972.js.map",
+    "787.6ee5bbe4.chunk.js.map": "/BookMark/static/js/787.6ee5bbe4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d56d944.css",
-    "static/js/main.9d83912d.js"
+    "static/js/main.9f751972.js"
   ]
 }
